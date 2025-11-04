@@ -1,0 +1,8 @@
+{
+  "sun_cycle": 0.000001,
+  "lunar_cycle": 0.00001,
+  "Earth_cycle": 0.0001,
+  "hourly_cycle": 0.001,
+
+  "communication": 0.2
+}

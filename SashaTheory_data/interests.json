@@ -1,0 +1,392 @@
+{
+  "фундаментальная математика": {
+    "schizoid": 0.9,
+    "neurotic": 0.2,
+    "narcissistic": 0.6
+  },
+  "прикладная математика": {
+    "schizoid": 0.7,
+    "neurotic": 0.4,
+    "narcissistic": 0.5
+  },
+  "физика": {
+    "schizoid": 0.6,
+    "neurotic": 0.3,
+    "narcissistic": 0.5
+  },
+  "философия": {
+    "schizoid": 0.5,
+    "neurotic": 0.5,
+    "narcissistic": 0.5
+  },
+  "эзотерика": {
+    "schizoid": 0.5,
+    "neurotic": 0.5,
+    "narcissistic": 0.5
+  },
+  "соблазнение": {
+    "schizoid": 0.3,
+    "neurotic": 0.7,
+    "narcissistic": 0.3
+  },
+  "обольщение": {
+    "schizoid": 0.3,
+    "neurotic": 0.7,
+    "narcissistic": 0.3
+  },
+  "пикап": {
+    "schizoid": 0.4,
+    "neurotic": 0.6,
+    "narcissistic": 0.4
+  },
+  "силовая гимнастика": {
+    "schizoid": 0.8,
+    "neurotic": 0.2,
+    "narcissistic": 0.3
+  },
+  "художественная гимнастика": {
+    "schizoid": 0.5,
+    "neurotic": 0.7,
+    "narcissistic": 0.7
+  },
+  "городской паркур": {
+    "schizoid": 0.2,
+    "neurotic": 0.7,
+    "narcissistic": 0.8
+  },
+  "конфликт": {
+    "schizoid": 0.9,
+    "neurotic": 0.9,
+    "narcissistic": 0.7
+  },
+  "тренировки с отягощением": {
+    "schizoid": 0.8,
+    "neurotic": 0.8,
+    "narcissistic": 0.5
+  },
+  "бокс": {
+    "schizoid": 0.8,
+    "neurotic": 0.8,
+    "narcissistic": 0.5
+  },
+  "фехтование": {
+    "schizoid": 0.8,
+    "neurotic": 0.8,
+    "narcissistic": 0.5
+  },
+  "стрельба": {
+    "schizoid": 0.9,
+    "neurotic": 0.8,
+    "narcissistic": 0.3
+  },
+  "кардио-тренировки": {
+    "schizoid": 0.5,
+    "neurotic": 0.5,
+    "narcissistic": 0.5
+  },
+  "бег": {
+    "schizoid": 0.4,
+    "neurotic": 0.6,
+    "narcissistic": 0.5
+  },
+  "плавание": {
+    "schizoid": 0.6,
+    "neurotic": 0.4,
+    "narcissistic": 0.5
+  },
+  "война": {
+    "schizoid": 0.9,
+    "neurotic": 0.01,
+    "narcissistic": 0.8
+  },
+  "смерть": {
+    "schizoid": 0.9,
+    "neurotic": 0.3,
+    "narcissistic": 0.7
+  },
+  "любовь": {
+    "schizoid": 0.9,
+    "neurotic": 0.7,
+    "narcissistic": 0.2
+  },
+  "социальные системы": {
+    "schizoid": 0.7,
+    "neurotic": 0.4,
+    "narcissistic": 0.5
+  },
+  "верность": {
+    "schizoid": 0.2,
+    "neurotic": 0.9,
+    "narcissistic": 0.2
+  },
+  "дружба": {
+    "schizoid": 0.3,
+    "neurotic": 0.9,
+    "narcissistic": 0.2
+  },
+  "предательство": {
+    "schizoid": 0.1,
+    "neurotic": 0.9,
+    "narcissistic": 0.2
+  },
+  "наука": {
+    "schizoid": 0.8,
+    "neurotic": 0.3,
+    "narcissistic": 0.4
+  },
+  "заработок": {
+    "schizoid": 0.5,
+    "neurotic": 0.4,
+    "narcissistic": 0.3
+  },
+  "экономика": {
+    "schizoid": 0.6,
+    "neurotic": 0.3,
+    "narcissistic": 0.5
+  },
+  "ремонт": {
+    "schizoid": 0.5,
+    "neurotic": 0.6,
+    "narcissistic": 0.3
+  },
+  "дизайн интерьеров": {
+    "schizoid": 0.3,
+    "neurotic": 0.8,
+    "narcissistic": 0.8
+  },
+  "уют": {
+    "schizoid": 0.3,
+    "neurotic": 0.7,
+    "narcissistic": 0.2
+  },
+  "функциональность": {
+    "schizoid": 0.8,
+    "neurotic": 0.8,
+    "narcissistic": 0.8
+  },
+  "музыка": {
+    "schizoid": 0.3,
+    "neurotic": 0.7,
+    "narcissistic": 0.3
+  },
+  "рок": {
+    "schizoid": 0.5,
+    "neurotic": 0.8,
+    "narcissistic": 0.6
+  },
+  "джаз": {
+    "schizoid": 0.3,
+    "neurotic": 0.5,
+    "narcissistic": 0.5
+  },
+  "русский рок": {
+    "schizoid": 0.7,
+    "neurotic": 0.8,
+    "narcissistic": 0.6
+  },
+  "цветы": {
+    "schizoid": 0.5,
+    "neurotic": 0.8,
+    "narcissistic": 0.4
+  },
+  "кофе": {
+    "schizoid": 0.4,
+    "neurotic": 0.6,
+    "narcissistic": 0.4
+  },
+  "алкоголь": {
+    "schizoid": 0.8,
+    "neurotic": 0.3,
+    "narcissistic": 0.5
+  },
+  "программирование": {
+    "schizoid": 0.9,
+    "neurotic": 0.8,
+    "narcissistic": 0.4
+  },
+  "AI": {
+    "schizoid": 0.9,
+    "neurotic": 0.9,
+    "narcissistic": 0.5
+  },
+  "психология": {
+    "schizoid": 0.5,
+    "neurotic": 0.6,
+    "narcissistic": 0.5
+  },
+  "нейробиология": {
+    "schizoid": 0.6,
+    "neurotic": 0.5,
+    "narcissistic": 0.5
+  },
+  "физиология человека": {
+    "schizoid": 0.5,
+    "neurotic": 0.5,
+    "narcissistic": 0.5
+  },
+  "психиатрия": {
+    "schizoid": 0.6,
+    "neurotic": 0.4,
+    "narcissistic": 0.4
+  },
+  "йога": {
+    "schizoid": 0.3,
+    "neurotic": 0.7,
+    "narcissistic": 0.3
+  },
+  "зависимости": {
+    "schizoid": 0.8,
+    "neurotic": 0.4,
+    "narcissistic": 0.3
+  },
+  "терапия зависимостей": {
+    "schizoid": 0.8,
+    "neurotic": 0.4,
+    "narcissistic": 0.2
+  },
+  "кулинария": {
+    "schizoid": 0.4,
+    "neurotic": 0.8,
+    "narcissistic": 0.5
+  },
+  "еда": {
+    "schizoid": 0.7,
+    "neurotic": 0.7,
+    "narcissistic": 0.5
+  },
+  "отношения": {
+    "schizoid": 0.3,
+    "neurotic": 0.8,
+    "narcissistic": 0.3
+  },
+  "педагогика": {
+    "schizoid": 0.5,
+    "neurotic": 0.5,
+    "narcissistic": 0.5
+  },
+  "система образования": {
+    "schizoid": 0.6,
+    "neurotic": 0.4,
+    "narcissistic": 0.3
+  },
+  "системы управления": {
+    "schizoid": 0.6,
+    "neurotic": 0.3,
+    "narcissistic": 0.3
+  },
+  "управление": {
+    "schizoid": 0.8,
+    "neurotic": 0.3,
+    "narcissistic": 0.3
+  },
+  "медитация": {
+    "schizoid": 0.2,
+    "neurotic": 0.8,
+    "narcissistic": 0.8
+  },
+  "психотренинг": {
+    "schizoid": 0.7,
+    "neurotic": 0.6,
+    "narcissistic": 0.2
+  },
+  "массаж": {
+    "schizoid": 0.2,
+    "neurotic": 0.7,
+    "narcissistic": 0.3
+  },
+  "флирт": {
+    "schizoid": 0.8,
+    "neurotic": 0.9,
+    "narcissistic": 0.4
+  },
+  "интим": {
+    "schizoid": 0.9,
+    "neurotic": 0.9,
+    "narcissistic": 0.5
+  },
+  "секс": {
+    "schizoid": 0.95,
+    "neurotic": 0.95,
+    "narcissistic": 0.6
+  },
+  "художественная литература": {
+    "schizoid": 0.3,
+    "neurotic": 0.9,
+    "narcissistic": 0.5
+  },
+  "чувства": {
+    "schizoid": 0.3,
+    "neurotic": 0.7,
+    "narcissistic": 0.5
+  },
+  "танцы": {
+    "schizoid": 0.3,
+    "neurotic": 0.7,
+    "narcissistic": 0.4
+  },
+  "актерское мастерство": {
+    "schizoid": 0.5,
+    "neurotic": 0.9,
+    "narcissistic": 0.3
+  },
+  "фокусы": {
+    "schizoid": 0.2,
+    "neurotic": 0.5,
+    "narcissistic": 0.3
+  },
+  "магия": {
+    "schizoid": 0.2,
+    "neurotic": 0.9,
+    "narcissistic": 0.8
+  },
+  "драматургия": {
+    "schizoid": 0.8,
+    "neurotic": 0.9,
+    "narcissistic": 0.7
+  },
+  "косплей": {
+    "schizoid": 0.8,
+    "neurotic": 0.8,
+    "narcissistic": 0.7
+  },
+  "выживание": {
+    "schizoid": 0.9,
+    "neurotic": 0.9,
+    "narcissistic": 0.2
+  },
+  "мотоциклы": {
+    "schizoid": 0.8,
+    "neurotic": 0.9,
+    "narcissistic": 0.5
+  },
+  "скорость": {
+    "schizoid": 0.5,
+    "neurotic": 0.9,
+    "narcissistic": 0.5
+  },
+  "внешний вид": {
+    "schizoid": 0.3,
+    "neurotic": 0.7,
+    "narcissistic": 0.4
+  },
+  "стиль одежды": {
+    "schizoid": 0.6,
+    "neurotic": 0.7,
+    "narcissistic": 0.4
+  },
+  "красота": {
+    "schizoid": 0.9,
+    "neurotic": 0.9,
+    "narcissistic": 0.5
+  },
+  "счастье": {
+    "schizoid": 0.01,
+    "neurotic": 0.9,
+    "narcissistic": 0.5
+  },
+  "детство": {
+    "schizoid": 0.2,
+    "neurotic": 0.8,
+    "narcissistic": 0.5
+  }
+}
