@@ -4,14 +4,6 @@ import time
 from datetime import datetime
 import os
 
-from fastapi import FastAPI
-import uvicorn
-
-app = FastAPI()
-
-@app.get("/")
-async def read_root():
-    return {"message": "Hello World"}
 
 class Person:
     def __init__(self, names, appearance, interests, biography, activities, volition, location):
@@ -31,8 +23,6 @@ class Person:
             "narcissistic": random.random()
         }
 
-        uvicorn.run(app, host="0.0.0.0", port=8080)
-
     def live(self, delay):
 
         while self.is_alive():
@@ -50,10 +40,6 @@ class Person:
             time.sleep(delay)
 
     def chat(self):
-        """
-        return_code = os.system('dir')
-        print(f"Код возврата: {return_code}")
-        """
         pass
 
     def get_current_state(self):
